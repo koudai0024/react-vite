@@ -1,5 +1,4 @@
 module.exports = {
-  files: ["./src/**/*.{ts,tsx,js,jsx}"],
   env: {
     browser: true,
     es2021: true,
